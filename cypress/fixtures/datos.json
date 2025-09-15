@@ -1,0 +1,14 @@
+{
+  "usuarioAdmin": {
+    "email": "bioadmin",
+    "password": "B10@dm1n"
+  },
+  "usuarioTest": {
+    "email": "testqa@godoycordoba.com",
+    "password": "12345"
+  },
+  "sectores": ["Caficultor", "Ganadero", "Agricultor"],
+  "temas": ["Tema 1", "Tema 2", "Tema 3"],
+  "subtemas": ["Subtema 1", "Subtema 2", "Subtema 3"],
+  "preguntas": ["Pregunta 1", "Pregunta 2", "Pregunta 3"]
+}
